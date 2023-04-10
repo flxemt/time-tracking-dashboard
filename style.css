@@ -121,7 +121,10 @@ button {
 .card-header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+}
+
+.card-header {
+  align-items: start;
 }
 
 .header-text {
@@ -141,6 +144,7 @@ button {
 
 .card-hours {
   margin-top: 0.375rem;
+  align-items: center;
 }
 
 .card-hours-value {
