@@ -97,7 +97,7 @@
     "backgroundImage": "/icon-social.svg",
     "backgroundPosition": {
       "right": "13px",
-      "top": "-15px"
+      "top": "0"
     },
     "timeframes": {
       "daily": {
