@@ -185,7 +185,7 @@ button {
   .profile-info {
     flex-direction: column;
     align-items: start;
-    gap: 2.625rem;
+    gap: 2.5rem;
     padding: 2.125rem 2rem 5rem 2rem;
   }
 
