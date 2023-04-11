@@ -94,7 +94,7 @@ button {
 }
 
 .card {
-  border-radius: 18px;
+  border-radius: 15px 15px 18px 18px;
   background-color: var(--bg-color);
   background-image: var(--bg-image);
   background-repeat: no-repeat;
