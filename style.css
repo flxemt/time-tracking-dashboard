@@ -196,6 +196,7 @@ button {
   .profile-avatar {
     width: 84px;
     height: 84px;
+    margin-left: -0.25rem;
   }
 
   .profile-details {
